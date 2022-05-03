@@ -1,12 +1,12 @@
 {
   "name": "not-not",
   "version": "1.0.2",
-  "description": "Just double negation function.",
-  "main": "not-not.js",
+  "description": "Just triple negation function.",
+  "main": "not-not-not.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "qvit",
+  "author": "daviegourevitch",
   "license": "MIT",
   "dependencies": {
     "not": "^0.1"
